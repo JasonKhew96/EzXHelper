@@ -276,11 +276,12 @@ $dokka.location:com.github.kyuubiran.ezxhelper.utils//setGone/android.view.View#
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//setInvisible/android.view.View#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/set-invisible.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//setViewZeroSize/android.view.View#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/set-view-zero-size.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//setVisible/android.view.View#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/set-visible.html
-$dokka.location:com.github.kyuubiran.ezxhelper.utils//showToast/android.content.Context#kotlin.String#kotlin.Int/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/show-toast.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils//showToast/android.content.Context#kotlin.String?#kotlin.Int/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/show-toast.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//toArray/org.json.JSONArray#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/to-array.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//toArrayList/org.json.JSONArray#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/to-array-list.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//toHashSet/org.json.JSONArray#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/to-hash-set.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//tryOrFalse/#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/try-or-false.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils//tryOrNull/#kotlin.Function0[TypeParam(bounds=[kotlin.Any?])?]/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/try-or-null.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils/Log///PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-log/index.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils/Log/d/#kotlin.String#kotlin.Throwable?/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-log/d.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils/Log/d/#kotlin.Throwable#kotlin.String/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-log/d.html
