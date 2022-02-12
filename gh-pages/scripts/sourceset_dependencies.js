@@ -1,1 +1,1 @@
-sourceset_dependencies='{":EzXHelper:dokkaHtml/androidTestRelease":[],":EzXHelper:dokkaHtml/debug":[],":EzXHelper:dokkaHtml/main":[],":EzXHelper:dokkaHtml/release":[]}'
+sourceset_dependencies='{":EzXHelper:dokkaHtml/androidTestRelease":[],":EzXHelper:dokkaHtml/debug":[],":EzXHelper:dokkaHtml/main":[],":EzXHelper:dokkaHtml/release":[],":EzXHelper:dokkaHtml/testFixtures":[],":EzXHelper:dokkaHtml/testFixturesDebug":[],":EzXHelper:dokkaHtml/testFixturesRelease":[]}'
