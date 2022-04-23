@@ -435,6 +435,8 @@ $dokka.location:com.github.kyuubiran.ezxhelper.utils//restartHostApp/#android.ap
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//runOnMainThread/#java.lang.Runnable/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/run-on-main-thread.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//runOnMainThread/java.lang.Runnable#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/run-on-main-thread.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//runtimeProcess/#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/runtime-process.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils//sameAs/kotlin.Array[java.lang.Class[*]]#kotlin.Array[kotlin.Any]/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/same-as.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils//sameAs/kotlin.collections.List[java.lang.Class[*]]#kotlin.Array[kotlin.Any]/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/same-as.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//setGone/android.view.View#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/set-gone.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//setInvisible/android.view.View#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/set-invisible.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//setViewZeroSize/android.view.View#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/set-view-zero-size.html
