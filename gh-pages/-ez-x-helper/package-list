@@ -209,6 +209,8 @@ $dokka.location:com.github.kyuubiran.ezxhelper.utils//findStaticObject/java.lang
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//findStaticObject/kotlin.Any#kotlin.Function1[java.lang.reflect.Field,kotlin.Boolean]#kotlin.Function1[kotlin.Any?,kotlin.Boolean]/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/find-static-object.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//findViewByCondition/android.view.ViewGroup#kotlin.Function1[android.view.View,kotlin.Boolean]/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/find-view-by-condition.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//findViewByConditionAs/android.view.ViewGroup#kotlin.Function1[android.view.View,kotlin.Boolean]/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/find-view-by-condition-as.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils//findViewByName/android.app.Activity#kotlin.String/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/find-view-by-name.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils//findViewByName/android.view.View#kotlin.String/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/find-view-by-name.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//forEach/android.view.ViewGroup#kotlin.Function1[android.view.View,kotlin.Unit]/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/for-each.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//forEach/org.json.JSONArray#kotlin.Function1[kotlin.Any,kotlin.Unit]/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/for-each.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//forEachIndexed/android.view.ViewGroup#kotlin.Function2[kotlin.Int,android.view.View,kotlin.Unit]/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/for-each-indexed.html
@@ -220,6 +222,7 @@ $dokka.location:com.github.kyuubiran.ezxhelper.utils//getBooleanOrNull/org.json.
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//getFieldByDesc/#kotlin.String#java.lang.ClassLoader/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/get-field-by-desc.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//getFieldByDesc/java.lang.ClassLoader#kotlin.String/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/get-field-by-desc.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//getFieldByType/kotlin.Any#java.lang.Class[*]#kotlin.Boolean/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/get-field-by-type.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils//getIdByName/#kotlin.String#android.content.Context/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/get-id-by-name.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//getIntOrDefault/org.json.JSONObject#kotlin.String#kotlin.Int/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/get-int-or-default.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//getIntOrNull/org.json.JSONObject#kotlin.String/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/get-int-or-null.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//getJSONArrayOrEmpty/org.json.JSONObject#kotlin.String/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/get-j-s-o-n-array-or-empty.html
@@ -428,10 +431,7 @@ $dokka.location:com.github.kyuubiran.ezxhelper.utils//runOnMainThread/#java.lang
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//runtimeProcess/#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/runtime-process.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//sameAs/kotlin.Array[java.lang.Class[*]]#kotlin.Array[kotlin.Any]/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/same-as.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//sameAs/kotlin.collections.List[java.lang.Class[*]]#kotlin.Array[kotlin.Any]/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/same-as.html
-$dokka.location:com.github.kyuubiran.ezxhelper.utils//setGone/android.view.View#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/set-gone.html
-$dokka.location:com.github.kyuubiran.ezxhelper.utils//setInvisible/android.view.View#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/set-invisible.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//setViewZeroSize/android.view.View#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/set-view-zero-size.html
-$dokka.location:com.github.kyuubiran.ezxhelper.utils//setVisible/android.view.View#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/set-visible.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//showToast/android.content.Context#kotlin.String#kotlin.Array[kotlin.Any?]#kotlin.Int/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/show-toast.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//showToast/android.content.Context#kotlin.String#kotlin.Int/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/show-toast.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils//staticFiled/java.lang.Class[*]#kotlin.String#java.lang.Class[*]?/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/static-filed.html
