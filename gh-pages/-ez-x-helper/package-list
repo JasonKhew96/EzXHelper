@@ -12,14 +12,8 @@ $dokka.location:com.github.kyuubiran.ezxhelper.init/EzXHelperInit/initZygote/#de
 $dokka.location:com.github.kyuubiran.ezxhelper.init/EzXHelperInit/setEzClassLoader/#java.lang.ClassLoader/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.init/-ez-x-helper-init/set-ez-class-loader.html
 $dokka.location:com.github.kyuubiran.ezxhelper.init/EzXHelperInit/setHostPackageName/#kotlin.String/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.init/-ez-x-helper-init/set-host-package-name.html
 $dokka.location:com.github.kyuubiran.ezxhelper.init/EzXHelperInit/setLogTag/#kotlin.String/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.init/-ez-x-helper-init/set-log-tag.html
-$dokka.location:com.github.kyuubiran.ezxhelper.init/EzXHelperInit/setLogXp/#kotlin.Boolean/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.init/-ez-x-helper-init/set-log-xp.html
-$dokka.location:com.github.kyuubiran.ezxhelper.init/EzXHelperInit/setLogs/#com.github.kyuubiran.ezxhelper.utils.interfaces.ILogs/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.init/-ez-x-helper-init/set-logs.html
 $dokka.location:com.github.kyuubiran.ezxhelper.init/EzXHelperInit/setToastTag/#kotlin.String/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.init/-ez-x-helper-init/set-toast-tag.html
 $dokka.location:com.github.kyuubiran.ezxhelper.init/InitFields///PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.init/-init-fields/index.html
-$dokka.location:com.github.kyuubiran.ezxhelper.init/InitFields/LOGS/#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.init/-init-fields/-l-o-g-s.html
-$dokka.location:com.github.kyuubiran.ezxhelper.init/InitFields/LOG_TAG/#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.init/-init-fields/-l-o-g_-t-a-g.html
-$dokka.location:com.github.kyuubiran.ezxhelper.init/InitFields/LOG_XP/#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.init/-init-fields/-l-o-g_-x-p.html
-$dokka.location:com.github.kyuubiran.ezxhelper.init/InitFields/TOAST_TAG/#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.init/-init-fields/-t-o-a-s-t_-t-a-g.html
 $dokka.location:com.github.kyuubiran.ezxhelper.init/InitFields/appContext/#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.init/-init-fields/app-context.html
 $dokka.location:com.github.kyuubiran.ezxhelper.init/InitFields/ezXClassLoader/#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.init/-init-fields/ez-x-class-loader.html
 $dokka.location:com.github.kyuubiran.ezxhelper.init/InitFields/hostPackageName/#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.init/-init-fields/host-package-name.html
@@ -30,12 +24,6 @@ $dokka.location:com.github.kyuubiran.ezxhelper.init/InitFields/isModulePathInite
 $dokka.location:com.github.kyuubiran.ezxhelper.init/InitFields/isModuleResInited/#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.init/-init-fields/is-module-res-inited.html
 $dokka.location:com.github.kyuubiran.ezxhelper.init/InitFields/modulePath/#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.init/-init-fields/module-path.html
 $dokka.location:com.github.kyuubiran.ezxhelper.init/InitFields/moduleRes/#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.init/-init-fields/module-res.html
-$dokka.location:com.github.kyuubiran.ezxhelper.utils.interfaces////PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils.interfaces/index.html
-$dokka.location:com.github.kyuubiran.ezxhelper.utils.interfaces/ILogs///PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils.interfaces/-i-logs/index.html
-$dokka.location:com.github.kyuubiran.ezxhelper.utils.interfaces/ILogs/d/#kotlin.String#kotlin.Throwable?/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils.interfaces/-i-logs/d.html
-$dokka.location:com.github.kyuubiran.ezxhelper.utils.interfaces/ILogs/e/#kotlin.String#kotlin.Throwable?/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils.interfaces/-i-logs/e.html
-$dokka.location:com.github.kyuubiran.ezxhelper.utils.interfaces/ILogs/i/#kotlin.String#kotlin.Throwable?/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils.interfaces/-i-logs/i.html
-$dokka.location:com.github.kyuubiran.ezxhelper.utils.interfaces/ILogs/w/#kotlin.String#kotlin.Throwable?/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils.interfaces/-i-logs/w.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils.parasitics////PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils.parasitics/index.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils.parasitics/ActivityHelper///PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils.parasitics/-activity-helper/index.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils.parasitics/ActivityProxyManager///PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils.parasitics/-activity-proxy-manager/index.html
@@ -443,6 +431,8 @@ $dokka.location:com.github.kyuubiran.ezxhelper.utils/Args///PointingToDeclaratio
 $dokka.location:com.github.kyuubiran.ezxhelper.utils/Args/Args/#kotlin.Array[kotlin.Any?]/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-args/-args.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils/Args/args/#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-args/args.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils/Log///PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-log/index.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Log/cancelLastToast/#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-log/cancel-last-toast.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Log/currentLogger/#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-log/current-logger.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils/Log/d/#kotlin.String#kotlin.Throwable?/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-log/d.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils/Log/d/#kotlin.Throwable#kotlin.String/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-log/d.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils/Log/dx/#kotlin.String#kotlin.Throwable?/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-log/dx.html
@@ -469,6 +459,33 @@ $dokka.location:com.github.kyuubiran.ezxhelper.utils/Log/w/#kotlin.String#kotlin
 $dokka.location:com.github.kyuubiran.ezxhelper.utils/Log/w/#kotlin.Throwable#kotlin.String/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-log/w.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils/Log/wx/#kotlin.String#kotlin.Throwable?/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-log/wx.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils/Log/wx/#kotlin.Throwable#kotlin.String/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-log/wx.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Logger.LogLevel///PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-logger/-log-level/index.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Logger.LogLevel/DEBUG/#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-logger/-log-level/-d-e-b-u-g.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Logger.LogLevel/ERROR/#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-logger/-log-level/-e-r-r-o-r.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Logger.LogLevel/INFO/#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-logger/-log-level/-i-n-f-o.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Logger.LogLevel/VERBOSE/#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-logger/-log-level/-v-e-r-b-o-s-e.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Logger.LogLevel/WARN/#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-logger/-log-level/-w-a-r-n.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Logger///PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-logger/index.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Logger/Logger/#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-logger/-logger.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Logger/d/#kotlin.String#kotlin.Throwable?/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-logger/d.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Logger/d/#kotlin.Throwable#kotlin.String/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-logger/d.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Logger/dx/#kotlin.String#kotlin.Throwable?/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-logger/dx.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Logger/dx/#kotlin.Throwable#kotlin.String/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-logger/dx.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Logger/e/#kotlin.String#kotlin.Throwable?/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-logger/e.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Logger/e/#kotlin.Throwable#kotlin.String/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-logger/e.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Logger/ex/#kotlin.String#kotlin.Throwable?/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-logger/ex.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Logger/ex/#kotlin.Throwable#kotlin.String/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-logger/ex.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Logger/i/#kotlin.String#kotlin.Throwable?/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-logger/i.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Logger/i/#kotlin.Throwable#kotlin.String/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-logger/i.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Logger/ix/#kotlin.String#kotlin.Throwable?/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-logger/ix.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Logger/ix/#kotlin.Throwable#kotlin.String/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-logger/ix.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Logger/logLevel/#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-logger/log-level.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Logger/logTag/#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-logger/log-tag.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Logger/toastTag/#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-logger/toast-tag.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Logger/w/#kotlin.String#kotlin.Throwable?/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-logger/w.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Logger/w/#kotlin.Throwable#kotlin.String/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-logger/w.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Logger/wx/#kotlin.String#kotlin.Throwable?/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-logger/wx.html
+$dokka.location:com.github.kyuubiran.ezxhelper.utils/Logger/wx/#kotlin.Throwable#kotlin.String/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-logger/wx.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils/Observe.ValueChangedEvent///PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-observe/-value-changed-event/index.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils/Observe.ValueChangedEvent/ValueChangedEvent/#/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-observe/-value-changed-event/-value-changed-event.html
 $dokka.location:com.github.kyuubiran.ezxhelper.utils/Observe.ValueChangedEvent/add/#kotlin.Function1[TypeParam(bounds=[kotlin.Any?]),kotlin.Unit]/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-observe/-value-changed-event/add.html
@@ -498,6 +515,5 @@ $dokka.location:com.github.kyuubiran.ezxhelper.utils/XposedHookFactory/after/#ko
 $dokka.location:com.github.kyuubiran.ezxhelper.utils/XposedHookFactory/before/#kotlin.Function1[de.robv.android.xposed.XC_MethodHook.MethodHookParam,kotlin.Unit]/PointingToDeclaration/-ez-x-helper/com.github.kyuubiran.ezxhelper.utils/-xposed-hook-factory/before.html
 com.github.kyuubiran.ezxhelper.init
 com.github.kyuubiran.ezxhelper.utils
-com.github.kyuubiran.ezxhelper.utils.interfaces
 com.github.kyuubiran.ezxhelper.utils.parasitics
 
